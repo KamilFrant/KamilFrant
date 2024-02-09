@@ -11,7 +11,8 @@ I want to take my first steps as a Junior Java Developer. My goal is to develop 
 * Java 8/11
 * Spring
 * Hibernate
-* SQL/MySQL
+* SQL
+* * MySQL
 * Git/GitHub
 * Maven
 * Liquibase
