@@ -12,7 +12,7 @@ I want to take my first steps as a Junior Java Developer. My goal is to develop 
 * Spring
 * Hibernate
 * SQL
-* * MySQL
+  * MySQL
 * Git/GitHub
 * Maven
 * Liquibase
