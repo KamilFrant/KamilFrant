@@ -8,16 +8,23 @@ I want to take my first steps as a Junior Java Developer. My goal is to develop 
 
 # Technologies and frameworks witch I use:
 
-* Java 8/11
+* Java 8/11/17
 * Spring
+  * Boot
+  * Framework
+  * Data
+  * Security
 * Hibernate
 * SQL
   * MySQL
-* Git/GitHub
+  * MS Server
+  * H2 Database
+* Git
+  * GitHub
+  * BitBucket
 * Maven
 * Liquibase
 * Thymeleaf
-* H2 Database
 * Swagger
 
 
